@@ -9,9 +9,12 @@ word3 =
 _____(_________)
 """
 
-
 #String Concatenation through multiple variables
+#First variable
 word1= "Coding"
+#Second variable
 word2= " is"
+#Third variable
 word3= " Cool"
-print(word1 + word2 + word3) 
+#Print the first, second, and third variables by using string concatenation
+print(word1 + word2 + word3)
