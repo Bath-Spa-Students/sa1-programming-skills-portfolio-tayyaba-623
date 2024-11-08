@@ -8,11 +8,11 @@ Print the value of the sum to the console.
 """
 
 
-#Declare first varaible and intialize it with the value 8
+#Declaring and intializing varaible
 x= 8
-#Declare second variable and intialize it with the value 10
+#Declaring and intializing varaible
 y= 10
-#Declare third varaible that stores the sum of first two numbers
+#Declaring and intializing varaible
 z= x+y
 #print the value of the sum
 print(f" The sum of x and y is {z}")
