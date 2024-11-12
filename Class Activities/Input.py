@@ -1,43 +1,42 @@
-#To get input from user
+# To get input from user
 height = input ("My height is :")
-#print the variable 
+# print the variable 
 print (height)
 
-#Another example 
-country = input ("I am living in :")
-#print the variable 
+# Another example 
+country = input ("I am living in : ")
+# print the variable 
 print (country)
 
-#Another example 
-name = input ("My name is :")
-#print the variable 
+# Another example 
+name = input ("My name is : ")
+# print the variable 
 print (name)
 
-#height in float
-height = float(input("My height is:"))
-#print the variable 
+# height in float
+height = float(input("My height is: "))
+# print the variable 
 print (height)
 
-#height in integer
-height = int(input("my height is:"))
-#print the variable 
+# height in integer
+height = int(input("my height is: "))
+# print the variable 
 print(height)
 
-#performing  calculation
-#Subtraction
+# performing  calculation
+# Subtraction
 print(10+4)
-#Division
+# Division
 print(5/4)
-#To get the result of division without float, we use //
 print(5//4)
 
-#Another method of performing calculation
-#First variable 
+# Another method of performing calculation
+# First variable 
 a=4
-#Second variable
+# Second variable
 b=3
-#Third variable
+# Third variable
 c=a+b
-#print the variable
+# print the variable
 print(c)
 

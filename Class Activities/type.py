@@ -1,13 +1,13 @@
-#Data types
-#first variable
+# Data types
+# first variable
 t= 14
-#second variable
+# second variable
 n= "tayyaba"
-#Third variable
+# Third variable
 z= 1.1
-#Print the data type
+# Print the data type
 print(type(t))
-#print the data type 
+# print the data type 
 print(type(n))
-#print the data type
+# print the data type
 print(type(z))

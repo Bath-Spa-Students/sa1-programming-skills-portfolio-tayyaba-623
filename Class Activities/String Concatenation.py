@@ -1,25 +1,25 @@
-#string concatenation through one variable
+# string concatenation
 name="tele"+"vision"
-#print name
+# print name
 print(name)
 
-#string concatenation through print statement
+# string concatenation through print 
 print("ice"+"cream")
 
-#string concatenation through multiple varaiables
-#First variable
+# string concatenation 
+# First variable
 b='i want to'
-#Second variable
+# Second variable
 c= ' drive a car'
-#print b and c
+# print b and c
 print(b + "" + c)
 
-#Another example
-#First variable
+# Another example
+# First variable
 age= "17"
-#Second variable
+# Second variable
 height= " 5.2"
-#print age and height
+# print both variables
 print(age + "" + height)
 
 
