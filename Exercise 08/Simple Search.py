@@ -12,7 +12,7 @@ Write a program that searches for a specific string within a list of strings. Th
 list=["Jake", "Zac", "Ian", "Ron", "Sam", "Dave"]
 #Get input from the user
 names=input("Enter any name from the list:")
-#if statement 
+#if-elsestatement 
 if names in list:
     print("Found")
 else:
