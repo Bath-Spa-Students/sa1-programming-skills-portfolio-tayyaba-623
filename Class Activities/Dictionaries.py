@@ -65,10 +65,6 @@ print(dictionary.keys())
 print(dictionary.values())
 
 
-example = {'color' : 'red '  , 
-           'fruit' : 'apple' ,
-           'place' : 'United arab emirates '}
-print (example)
 
 
 
