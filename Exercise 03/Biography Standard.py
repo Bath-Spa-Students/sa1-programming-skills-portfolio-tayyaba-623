@@ -16,9 +16,13 @@ Try giving both your first and second name when asked for your name. What happen
 Test the program by entering a string value for age (e.g., "twenty"). What happens? How can you prevent this issue?
 
 """
-#Python dictionary
+# Information
+Name= "Tayyaba Qamar"
+Hometown= "Ras Al Khaimah"
+Age= 17
+# Python dictionary
 data= {'Name': 'Tayyaba Qamar', 'Hometown' :'Ras Al Khaimah', 'Age':'17'}
-#print statement
+# print statement
 print("Name:", data ['Name'])
 print("Hometown:", data['Hometown'])
 print("Age:", data['Age']) 

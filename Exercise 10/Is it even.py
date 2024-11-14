@@ -10,10 +10,10 @@ Write a program that tests if a value is even or odd. Follow the instructions ou
 * The message returned by the function should be printed from within the main function.
 
 """
-#Taking input from user
+#Taking input from the user
 number = int(input("Enter a number:"))
 #if-else statement
 if number % 2== 0:
     print("Even number")
 else:
-    print("odd number")
+    print("odd number") 

@@ -1,4 +1,4 @@
- """
+"""
 ## Exercise 3: Biography - 25 Marks
 
 In this exercise, you'll create a program that stores and prints your name, hometown, and age to the console using a Python dictionary.
@@ -16,16 +16,16 @@ Try giving both your first and second name when asked for your name. What happen
 Test the program by entering a string value for age (e.g., "twenty"). What happens? How can you prevent this issue?
 
 """
+
 #Get input from the user
-name = input("Enter your name:")
-hometown = input("Enter your hometown:")
+Name = input("Enter your Name: ")
+Hometown = input("Enter your Hometown: ")
 #While loop
 while True:
-    age = input("Enter your age:")
-#if statement
-    if age. isdigit():
+    age = input("Enter your age: ")
+#if-else statement
+    if age.isdigit():
        age = int(age)
        break
     else: 
          print("Age should be an integer")
-      
