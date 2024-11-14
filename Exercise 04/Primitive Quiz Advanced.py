@@ -25,7 +25,7 @@ Countries = {
         "Czech Republic" : "Prague",
         "Denmark" : "Copenhagen"
 }
-
+ 
 for country, capital in Countries.items():
 # Taking input from the user
     answer = input(f"What is the capital of {country}? ").strip().lower()

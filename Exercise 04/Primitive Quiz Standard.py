@@ -18,4 +18,4 @@ country = input("What is the capital of France? ")
 if country == "Paris":
     print("The answer is correct")
 else:
-    print("The answer is incorrect")
+    print("The answer is incorrect") 
