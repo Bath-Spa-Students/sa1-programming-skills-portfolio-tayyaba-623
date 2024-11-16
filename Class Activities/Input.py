@@ -1,4 +1,4 @@
-# To get input from user
+# To get input from the user
 height = input ("My height is :")
 # print the variable 
 print (height)
