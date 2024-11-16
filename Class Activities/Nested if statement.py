@@ -1,5 +1,5 @@
 # Nested if-else statement
-# To get the input from user
+# To get input from the user
 salary=(int(input("Enter your salary:")))
 # Nested if-else statement
 if salary>=40000:
