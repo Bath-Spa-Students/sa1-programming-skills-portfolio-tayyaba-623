@@ -60,7 +60,7 @@ list_1=[4,8,2,4,0,5,3,1]
 numbers=list_1[3:5]
 print(numbers)
 
-# To find the elements in the list we are supposed to use if operator 
+# Use of if operator 
 # Example 1
 list=[2,5,3,7,5,1,4,8,9]
 if 9 in list:
