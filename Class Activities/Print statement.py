@@ -1,4 +1,4 @@
-# To print the output on screen, the print statementis used
+# To print the output on screen, print statement is used
 # poem no 1
 print (""" I am a little turtle
          I Crawl so slow,
@@ -15,7 +15,7 @@ print ("""Where is Santa?
 print("I am tayyaba")
 
 # To print the value of the variable
-# Declaring the variable
+# Declaring and initializing a variable
 x= 5
 # print the variable
 print(x)
@@ -28,9 +28,9 @@ print("I like spicy food")
 print("I love painting")
 
 # Variable Reassignment
-# Assign the value 16 to the variable age
+# Declaring and initializing the variable
 age=16
-# Reassig the value 17 to the  variable age
+# Reassigning the value to the variable
 age=17
 # print age
 print(age)
