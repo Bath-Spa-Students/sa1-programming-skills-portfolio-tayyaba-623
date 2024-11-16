@@ -28,12 +28,12 @@ print("\t it's raining")
 print("\n my name is tayyaba \t i am a CC student")
 
 # formatted output
-#Declaring the variable
+# Declaring and initializing the variable
 name= "tayyaba"
 # print the variable
 print(f"my name is {name}")
 
-# Declaring the variable 
+# Declaring and initializing the variable
 age=17
 # print the variable
 print(f"my age is {age}")
