@@ -1,4 +1,4 @@
-# To get input from the user
+# Taking input from the user
 height = input ("My height is :")
 # print the variable 
 print (height)
@@ -32,11 +32,11 @@ print(5//4)
 
 # Another method of performing calculation
 # First variable 
-a=4
+a = 4
 # Second variable
-b=3
+b = 3
 # Third variable
-c=a+b
+c = a+b
 # print the variable
 print(c)
 
