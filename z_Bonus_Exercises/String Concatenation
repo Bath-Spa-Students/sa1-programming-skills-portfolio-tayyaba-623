@@ -11,4 +11,4 @@ y = " adore"
 # Third variable
 z = " painting"
 # Printing all the variables
-print(x + y + z)
+print(x + y + z) 
