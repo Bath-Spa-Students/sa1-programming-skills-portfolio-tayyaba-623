@@ -13,7 +13,7 @@ Leap Year Adjustment: Modify the program to account for leap years. For February
 """
 
 # Months
-months= {
+months = {
         1:  31,
         2:  28,
         3:  31,
@@ -28,9 +28,9 @@ months= {
         12: 31,
                 }
 # Taking input from the user
-answer= int(input("Enter any month number from 1 to 12: "))
+answer = int(input("Enter any month number from 1 to 12: "))
 if answer in months:
-   if answer ==2:
+   if answer == 2:
         leap_year = input("Is it a leap year? (yes/no):").strip().lower()
 # Checking whether the year is leap year or not
         if leap_year == "yes":
