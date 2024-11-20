@@ -17,13 +17,13 @@ Test the program by entering a string value for age (e.g., "twenty"). What happe
 
 """
 
-#Get input from the user
+# Get input from the user
 Name = input("Enter your Name: ")
 Hometown = input("Enter your Hometown: ")
-#While loop
+# While loop
 while True:
     age = input("Enter your age: ")
-#if-else statement
+# if-else statement
     if age.isdigit():
        age = int(age)
        break
