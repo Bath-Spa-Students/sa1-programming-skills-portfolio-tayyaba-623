@@ -8,13 +8,13 @@ Print the value of the sum to the console.
 """
 
 
-#Declaring and intializing varaible
+# Declaring and intializing varaible
 x = 8
-#Declaring and intializing varaible
+# Declaring and intializing varaible
 y = 10
-#Declaring and intializing varaible
+# Declaring and intializing varaible
 z = x+y
-#print the value of the sum
+# print the value of the sum
 print(f" The sum of x and y is {z}")
 
 
