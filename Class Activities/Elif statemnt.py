@@ -8,6 +8,8 @@ elif c == d:
     print("C and d are equal")  
 else:
     print("C is greater than d")
+
+
       
 # Taking input from the user
 score= int(input("Enter your scores:"))
@@ -19,6 +21,6 @@ elif score >= 80:
 elif score >= 70:
     print("Your grade is C.")
 elif score >= 50:
-    print("Yoyr grade is D.")
+    print("Your grade is D.")
 else:
     print("Your grade is F.")
