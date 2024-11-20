@@ -9,12 +9,12 @@ word3 =
 _____(_________)
 """
 
-#String Concatenation 
-#First variable
-word1= "Coding"
-#Second variable
-word2= " is"
-#Third variable
-word3= " Cool"
-#Print all the variables
+# String Concatenation 
+# First variable
+word1 = "Coding"
+# Second variable
+word2 = " is"
+# Third variable
+word3 = " Cool"
+# Print all the variables
 print(word1 + word2 + word3)
