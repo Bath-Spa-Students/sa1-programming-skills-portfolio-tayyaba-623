@@ -14,7 +14,7 @@ Write a program that tests if a value is even or odd. Follow the instructions ou
 Number = int(input("Enter a number:"))
 def Even_OR_Odd(Number):
 # if-else statement
-     if Number % 2== 0:
+     if Number % 2 == 0:
         print("Even number")
      else:
         print("Odd number") 
