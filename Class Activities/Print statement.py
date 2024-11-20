@@ -11,9 +11,6 @@ print ("""Where is Santa?
          Merry,merry,christmas
          Ho,Ho,Hol""")
 
-# To print output, the print statement is used
-print("I am tayyaba")
-
 # To print the value of the variable
 # Declaring and initializing a variable
 x= 5
