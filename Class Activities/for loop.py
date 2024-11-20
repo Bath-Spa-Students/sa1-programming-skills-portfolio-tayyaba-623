@@ -1,5 +1,5 @@
 # for loop
-Names= ["tayyaba", "naila"]
+Names = ["Tayyaba", "Naila"]
 for i in Names:
 # print the variable
     print(i)
@@ -21,6 +21,6 @@ for n in range(0,45,7):
     print(n, end=",")
 
 # user controlled loop
-t= int(input("Enter the mximum range:"))
+t = int(input("Enter the mximum range:"))
 for t in range(0,18,4):
     print(t, end=",")
