@@ -1,11 +1,11 @@
 # Nested if-else statement
-# To get input from the user
-salary=(int(input("Enter your salary:")))
+# Taking input from the user
+salary = (int(input("Enter your salary:")))
 # Nested if-else statement
-if salary>=40000:
-    year_of_experience=(float(input("Enter your year of experience:")))
+if salary >= 40000:
+    year_of_experience = (float(input("Enter your year of experience:")))
     
-    if year_of_experience>=3:
+    if year_of_experience >= 3:
         print("You are eligible for this job")
     
     else:
