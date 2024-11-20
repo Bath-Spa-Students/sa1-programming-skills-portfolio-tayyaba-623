@@ -12,29 +12,29 @@ print("my" , "name", "is" ,"tayyaba")
 print("home" + "town")
 
 # string concatenation through multiple variables 
-first_name= "tayyaba"
-last_name= " qamar"
+first_name = "Tayyaba"
+last_name = " qamar"
 print(first_name + last_name)
 
 # end delimiter
-name= "tayyaba"
+name = "Tayyaba"
 print(name , end ="")
 print(" hello word ")
 
 # \t is use to insert space
-print("\t it's raining")
+print("\t It's raining")
 
 # To print the output on new line , we will use \n.
-print("\n my name is tayyaba \t i am a CC student")
+print("\n my name is tayyaba \t I am a CC student")
 
 # formatted output
 # Declaring and initializing the variable
-name= "tayyaba"
+name = "Tayyaba"
 # print the variable
 print(f"my name is {name}")
 
 # Declaring and initializing the variable
-age=17
+age = 17
 # print the variable
 print(f"my age is {age}")
 
