@@ -9,18 +9,18 @@ in each case.
 *You may include all loops in a single project*
 
 """
-#First loop
+# First loop
 for t in range(0,51,1):        #increment of 1
     print(t)
-#Second loop
+# Second loop
 for t in range(50,-1,-1):      #decrement of 1
     print(t)
-#Third loop
+# Third loop
 for t in range(30,51,1):       #increment of 1
     print(t)
-#Fourth loop
+# Fourth loop
 for t in range(50,9,-2):      #decrement of 2
     print(t)
-#Fifth loop
+# Fifth loop
 for t in range(100,201,5):    #increment of 5
     print(t)
