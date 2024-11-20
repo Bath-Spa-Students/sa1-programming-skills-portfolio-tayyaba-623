@@ -18,7 +18,7 @@ while n < 15:
 
 # while loop
 count= 17
-while count<=20:
+while count <= 20:
     print("count is:", count)
     count += 1
  
