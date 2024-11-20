@@ -17,11 +17,11 @@ Test the program by entering a string value for age (e.g., "twenty"). What happe
 
 """
 # Information
-Name= "Tayyaba Qamar"
-Hometown= "Ras Al Khaimah"
-Age= 17
+Name = "Tayyaba Qamar"
+Hometown = "Ras Al Khaimah"
+Age = 17
 # Python dictionary
-data= {'Name': 'Tayyaba Qamar', 'Hometown' :'Ras Al Khaimah', 'Age':'17'}
+data = {'Name': 'Tayyaba Qamar', 'Hometown' :'Ras Al Khaimah', 'Age':'17'}
 # print statement
 print("Name:", data ['Name'])
 print("Hometown:", data['Hometown'])
