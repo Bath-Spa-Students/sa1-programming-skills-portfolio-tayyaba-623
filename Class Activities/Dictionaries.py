@@ -37,7 +37,7 @@ dictionary = {'Name' : 'Tayyaba' , 'Course' : 'Creative Computing' }
 del dictionary ["Course"]
 print(dictionary.items())
 
-# Delete method Cont
+# Delete method 
 dictionary = {'Name' : 'Tayyaba' ,
               'Place' : 'Rak Al Khaimah' ,
               'Country' : 'United Arab Emirates'}
