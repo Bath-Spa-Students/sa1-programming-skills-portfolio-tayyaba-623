@@ -12,7 +12,7 @@ Write a program that tells a user how many days there are in a specific month. U
 Leap Year Adjustment: Modify the program to account for leap years. For February, ask the user if the year is a leap year and adjust the number of days accordingly.
 """
 # months
-months= {
+months = {
         1:  31,
         2:  28,
         3:  31,
@@ -27,7 +27,7 @@ months= {
         12: 31,
                 }
 # Taking input from the user
-user_answer=int(input("Enter any month number from 1 to 12:"))
+user_answer = int(input("Enter any month number from 1 to 12:"))
 # if-else statement
 if user_answer <= 12:
     print(f"Month {user_answer} has {months[user_answer]} days")
